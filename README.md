@@ -2,6 +2,7 @@
 
 ### How to run the program
 
+```
 javac Bookshelf.java
 
 javac BookshelfKeeper.java
@@ -9,6 +10,7 @@ javac BookshelfKeeper.java
 javac BookshelfKeeperProg.java 
 
 java -ea BookshelfKeeperProg
+```
 
 ### Files
 
