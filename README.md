@@ -3,11 +3,7 @@
 ### How to run the program
 
 ```
-javac Bookshelf.java
-
-javac BookshelfKeeper.java
-
-javac BookshelfKeeperProg.java 
+javac *.java 
 
 java -ea BookshelfKeeperProg
 ```
